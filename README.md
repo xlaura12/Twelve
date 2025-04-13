@@ -1,4 +1,3 @@
-
   <title>Twelve</title>
   <link rel="stylesheet" href="style.css">
 </head>
@@ -94,4 +93,9 @@ h1 {
 <html lang="en">
 <head>
   <meta charset="UTF-8">
-  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0"><svg xmlns="http://www.w3.org/2000/svg" width="200" height="200" viewBox="0 0 200 200">
+  <rect width="200" height="200" fill="#FFCDD2"/>
+  <text x="50%" y="50%" fill="#000" font-size="20" text-anchor="middle" alignment-baseline="middle">
+    Imagen 1
+  </text>
+  </svg>
