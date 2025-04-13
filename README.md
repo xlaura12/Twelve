@@ -10,7 +10,7 @@
   <div class="container">
     <div class="left-circle">🍷</div>
     <div class="right-circle">Notes AI</div>
-    <h1>Which image do you prefer?</h1>
+    <h1>?</h1>What emotion do you feel?/>
     <div class="images">
       <div class="image-container">
         <img id="image1" src="image1.jpg" alt="Image 1">
@@ -20,7 +20,7 @@
       <div class="image-container">
         <img id="image2" src="image2.jpg" alt="Image 2">
         <button onclick="vote('image2')">Vote</button>
-        <p id="score2">Score: 0</p>
+         <p id="score2">Score: 0</p>
       </div>
     </div>
   </div>
